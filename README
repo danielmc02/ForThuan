@@ -1,0 +1,4 @@
+Step 1: Create a venv using the command python3 -m venv *path/to/directory/name*
+Step 2: Activate the source which will create an isolated environment
+Step 3: When you sucessfully create the environment install the following packages found in the README.pdf using pip
+Step 4: Once those are downloaded run my program and it'll confirm if you did it properly
